@@ -12,3 +12,11 @@
 1. Hands on:  security
 1. Hands on:  monitoring
 1. Hands on:  troubleshooting
+
+## Inspiration
+[NitorCreations](https://github.com/NitorCreations/serverless-workshop)
+[ACloudGuru](https://github.com/ACloudGuru/serverless-workshop)
+[ngineered](https://github.com/ngineered/serverless-workshop)
+[awslabs](https://github.com/awslabs/aws-serverless-workshops)
+[Nordstrom hello retail](https://github.com/Nordstrom/hello-retail-workshop)
+[Nordstrom artillery](https://github.com/Nordstrom/serverless-artillery-workshop)
