@@ -11,6 +11,7 @@
 1. Presentation: what is serverless
     1. Benefits
     1. Patterns
+    1. Providers & tools
     1. Use cases
     1. Case studies
 1. Hands on:  serverless hello world
